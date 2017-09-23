@@ -1,0 +1,26 @@
+From bfe961ee77c7a3fc7513f63fb24208d9ab4c5cae Mon Sep 17 00:00:00 2001
+From: sh15125029 <348924000@qq.com>
+Date: Sat, 23 Sep 2017 19:41:43 +0800
+Subject: [PATCH] =?UTF-8?q?=E8=A1=A5=E4=B8=81=E4=BD=BF=E7=94=A8?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ abc.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/abc.txt b/abc.txt
+index 8e36be1..dcdf1de 100644
+--- a/abc.txt
++++ b/abc.txt
+@@ -1 +1,3 @@
+-asdfasdfsadfdsafas
+\ No newline at end of file
++asdfasdfsadfdsafas
++
++disanci  buding 
+\ No newline at end of file
+-- 
+1.9.2.msysgit.0
+
